@@ -7,4 +7,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdoxx123&size_weight=0.5&count_weight=0.5&theme=radical)
 
-  <img src="https://skillicons.dev/icons?i=cpp,python,lua"/>
+  <img src="https://skillicons.dev/icons?i=cpp,rust,lua"/>
+Offically on linux
