@@ -9,3 +9,4 @@
 
   <img src="https://skillicons.dev/icons?i=cpp,rust,lua"/>
 Offically on linux
+Java is cancer and should get eradicated
