@@ -6,3 +6,6 @@ me like code but code dont like me and it go kaboom :(
 Offically on linux
 
 Java is cancer and should get eradicated
+MOVED TO CODEBERG
+https://codeberg.org/xdoxx123
+FUCK MICROSLOP
